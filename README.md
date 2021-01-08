@@ -7,7 +7,7 @@ This is my template for a minimal tailwind-setup. Just html and tailwind, no fra
   * create a folder for your project and use the following commands in this folder
   * clone this repo
     ```shell
-      git clone https://github.com/larsmei/tailwind_minimal
+      git clone https://github.com/larsmei/tailwind_minimal .
     ```
   * install tailwind
     ```shell
