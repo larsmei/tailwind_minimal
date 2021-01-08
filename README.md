@@ -17,6 +17,10 @@ This is my template for a minimal tailwind-setup. Just html and tailwind, no fra
     ```shell
       npx tailwindcss-cli@latest build ./style.css -o ./output.css
     ```
+  * create configuration
+   ```shell
+    npx tailwindcss-cli@latest init
+    ```
   * create production-version ( minified css )
     * create purge entry in tailwind.config.js
     ```shell
